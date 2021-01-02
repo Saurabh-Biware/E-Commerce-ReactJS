@@ -16,7 +16,7 @@ const onToken = token => {
 return(
     <StripeCheckout
             label='Pay Now'
-            name='Saurabh Clothing Ltd.'
+            name='My Fashion Store'
             billingAddress
             shippingAddress
             image='https://svgshare.com/i/CUz.svg'
